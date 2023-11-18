@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cbe53f73-3464-46cf-80bc-786d16b5c429" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/law-firm-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Law firm Landing Page (Community).fig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/.eslintrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/public/Vector.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/Components/Home/Hero-Image/Hero-Image.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/Components/Home/Hero/Hero.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/Components/Home/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/Components/Home/Home.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/Components/Home/Navigation/Navigation.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/Components/Logo/Logo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/assets/Message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/assets/hero-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2Xl09sIXsJJHNBRH8bNpIm1MaC1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ReactCreateComponentLastSelected": "arrowFunctionComponent",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Piyush/Documents/LSD/Crio.Do/law-firm-project",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.splitter.proportion": "0.17268446",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+        <entry key="com.haulmont.rcb.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Piyush\Documents\LSD\Crio.Do\law-firm-project\law-firm-project\src\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Piyush\Documents\LSD\Crio.Do\law-firm-project\law-firm-project\src\assets" />
+      <recent name="C:\Users\Piyush\Documents\LSD\Crio.Do\law-firm-project\law-firm-project\src\Components\Home" />
+      <recent name="C:\Users\Piyush\Documents\LSD\Crio.Do\law-firm-project\law-firm-project\public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbe53f73-3464-46cf-80bc-786d16b5c429" name="Changes" comment="" />
+      <created>1699188216740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699188216740</updated>
+      <workItem from="1699188219904" duration="4340000" />
+      <workItem from="1699851929850" duration="15000" />
+      <workItem from="1699851981617" duration="77000" />
+      <workItem from="1699852101749" duration="1634000" />
+      <workItem from="1699978481809" duration="3989000" />
+      <workItem from="1700020935298" duration="546000" />
+      <workItem from="1700021517566" duration="471000" />
+      <workItem from="1700022023121" duration="995000" />
+      <workItem from="1700023051271" duration="279000" />
+      <workItem from="1700023357568" duration="1906000" />
+      <workItem from="1700050106103" duration="35783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
