@@ -2,11 +2,11 @@
 const Navigation = () => {
     return (
         <>
-            <div className="flex p-1">
-                <div className="mx-1.5">Home</div>
-                <div className="mx-1.5">Attorneys</div>
-                <div className="mx-1.5">Practice Areas</div>
-                <div className="mx-1.5">About Us</div>
+            <div className="flex p-1 text-sm">
+                <div className="mx-2">Home</div>
+                <div className="mx-2">Attorneys</div>
+                <div className="mx-2">Practice Areas</div>
+                <div className="mx-2">About Us</div>
             </div>
         </>
     )

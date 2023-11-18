@@ -5,35 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbe53f73-3464-46cf-80bc-786d16b5c429" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/law-firm-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Law firm Landing Page (Community).fig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/.eslintrc.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/public/Vector.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/src/Components/Home/Hero-Image/Hero-Image.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/src/Components/Home/Hero/Hero.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/src/Components/Home/Home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/src/Components/Home/Home.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/src/Components/Home/Navigation/Navigation.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/src/Components/Logo/Logo.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/src/assets/Message.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/src/assets/hero-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/src/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/tailwind.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/vite.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +97,7 @@
       <workItem from="1700022023121" duration="995000" />
       <workItem from="1700023051271" duration="279000" />
       <workItem from="1700023357568" duration="1906000" />
-      <workItem from="1700050106103" duration="35783000" />
+      <workItem from="1700050106103" duration="36467000" />
     </task>
     <servers />
   </component>
