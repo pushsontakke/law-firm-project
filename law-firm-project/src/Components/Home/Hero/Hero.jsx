@@ -14,9 +14,9 @@ const Hero = () => {
                     faucibus himenaeos tortor eget, hac massa gravida arcu interdum proin curae.
                 </p>
                 <div className="flex bg-[#383838] mt-5 h-12 rounded-full text-sm w-[372px]">
-                    <img src={Message} alt="img" className="opacity-25 h-5 mt-3.5 ml-6 mr-3"/>
+                    <img src={Message} alt="MessageIcon" className="opacity-25 h-5 mt-3.5 ml-6 mr-3"/>
                     <input placeholder={"Enter your email address"} className="bg-[#383838] focus:outline-none "/>
-                    <button className="bg-orange-300 text-black rounded-full w-[107px] h-10 m-auto">Let&apos;s Talk</button>
+                    <button className="bg-orange-300 text-black rounded-full w-[108px] h-10 m-auto">Let&apos;s Talk</button>
                 </div>
             </div>
             <div>
