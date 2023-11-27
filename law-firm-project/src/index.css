@@ -7,3 +7,9 @@ html, body {
     color: white;
     font-family: Inter, sans-serif;
 }
+
+.carousel-container {
+    position: relative !important;
+    overflow: visible !important;
+    z-index: auto !important;
+}
