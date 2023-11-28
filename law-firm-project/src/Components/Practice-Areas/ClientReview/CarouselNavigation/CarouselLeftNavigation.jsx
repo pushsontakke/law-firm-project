@@ -25,7 +25,7 @@ const CarouselLeftNavigation = () => {
     <div
       onClick={handleSlide}
       onKeyDown={handleKeyDown}
-      className="flex items-center justify-center w-[50px] h-[50px] rounded-full bg-yellow-300 hover:border-4 hover:border-yellow-200 cursor-pointer"
+      className="flex items-center justify-center w-[50px] h-[50px] rounded-full bg-[#E3B748] hover:border-4 hover:border-yellow-200 cursor-pointer"
     >
       <Leftarrow className="w-8 h-8" />
     </div>
@@ -33,7 +33,7 @@ const CarouselLeftNavigation = () => {
     <div
       onClick={handleSlide}
       onKeyDown={handleKeyDown}
-      className="flex items-center justify-center w-[50px] h-[50px] rounded-full bg-white hover:border-4 hover:border-yellow-200 cursor-pointer"
+      className="flex items-center justify-center w-[50px] h-[50px] rounded-full bg-white cursor-pointer"
     >
       <Leftarrow className="w-8 h-8" />
     </div>
