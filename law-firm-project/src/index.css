@@ -1,15 +1,9 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
 
 html, body {
     background-color: #1D1D1D;
     color: white;
     font-family: Inter, sans-serif;
-}
-
-.carousel-container {
-    position: relative !important;
-    overflow: visible !important;
-    z-index: auto !important;
 }

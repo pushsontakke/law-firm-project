@@ -4,30 +4,22 @@ import robertFox from "../../../assets/RobertFox.png";
 import CarouselLeftNavigation from "./CarouselNavigation/CarouselLeftNavigation";
 import CarouselRightNavigation from "./CarouselNavigation/CarouselRightNavigation";
 import { Swiper, SwiperSlide } from "swiper/react";
-import SwiperCore, { Navigation } from "swiper";
+import { Navigation } from "swiper/modules";
 import "swiper/css";
-import "swiper/css/navigation";
-
-SwiperCore.use([Navigation]);
 
 const ClientReview = () => {
   return (
     <div className="relative">
-      <div className="mt-32 justify-start items-start text-4xl font-medium w-64">
+      <div className="mt-32 mb-[-40px] justify-start items-start text-4xl font-medium w-64">
         What says our happy Clients
       </div>
 
       {/* Carousel part using swiper.js */}
 
-      <div className="relative mt-12">
-
+      <div>
         <Swiper
-          className="carousel-container"
-        //   modules={[Navigation]}
-        navigation={{
-            nextEl: '.custom-next-button',
-            prevEl: '.custom-prev-button',
-        }}
+          className="relative z-auto pt-28"
+            modules={[Navigation]}
           slidesPerView={3}
           spaceBetween={30}
           allowTouchMove
@@ -118,14 +110,12 @@ const ClientReview = () => {
               </p>
             </div>
           </SwiperSlide>
-          <div
-            className="navigation-container"
-          >
+          <div className="absolute z-10 top-0 right-0">
             <div className="inline-block ml-3">
-              <CarouselLeftNavigation />
+              <CarouselLeftNavigation className="custom-prev-button" />
             </div>
             <div className="inline-block ml-3">
-              <CarouselRightNavigation />
+              <CarouselRightNavigation className="custom-next-button" />
             </div>
           </div>
         </Swiper>

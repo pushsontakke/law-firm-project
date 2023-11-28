@@ -5,13 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbe53f73-3464-46cf-80bc-786d16b5c429" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/law-firm-project/src/Components/Attorneys/Introduction/Introduction.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/src/Components/Attorneys/Success-Data/SuccessData.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/law-firm-project/src/assets/Ellipse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/Components/Practice-Areas/AreaOfPractices/AreaOfPractices.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/Components/Practice-Areas/ClientReview/ClientReview.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/Components/Practice-Areas/PracticeAreas.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/assets/Business.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/assets/BusinessLaw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/assets/Elder-Abuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/assets/Landlord-Disputes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/assets/Partnership.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/assets/Real-Estate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/assets/leftA.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/assets/leftArrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/assets/rightA.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/law-firm-project/src/assets/rightArrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/law-firm-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/law-firm-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/law-firm-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/law-firm-project/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/law-firm-project/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/law-firm-project/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/law-firm-project/src/Components/Home/Hero/Hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/law-firm-project/src/Components/Home/Hero/Hero.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/law-firm-project/src/Components/Home/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/law-firm-project/src/Components/Attorneys/Attorneys.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/law-firm-project/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/law-firm-project/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +96,8 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Piyush\Documents\LSD\Crio.Do\law-firm-project\law-firm-project\src\assets" />
+      <recent name="C:\Users\Piyush\Documents\LSD\Crio.Do\law-firm-project\law-firm-project\src\Components\Practice-Areas" />
+      <recent name="C:\Users\Piyush\Documents\LSD\Crio.Do\law-firm-project\law-firm-project\src\Components\Practice-Areas\AreaOfPractices" />
       <recent name="C:\Users\Piyush\Documents\LSD\Crio.Do\law-firm-project\law-firm-project\src\Components\Home" />
       <recent name="C:\Users\Piyush\Documents\LSD\Crio.Do\law-firm-project\law-firm-project\public" />
     </key>
@@ -104,7 +121,8 @@
       <workItem from="1700023051271" duration="279000" />
       <workItem from="1700023357568" duration="1906000" />
       <workItem from="1700050106103" duration="39121000" />
-      <workItem from="1700352144273" duration="8555000" />
+      <workItem from="1700352144273" duration="22514000" />
+      <workItem from="1700649268727" duration="11860000" />
     </task>
     <servers />
   </component>
