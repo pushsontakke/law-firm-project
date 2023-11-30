@@ -3,11 +3,11 @@ import FAQs from "./FAQ/FAQs";
 
 const AboutUs = () => {
     return (
-        <div className="p-10">
-            <OurTeam />
-            <FAQs />
-        </div>
-    )
+      <div className="p-10 lg:px-32">
+        <OurTeam />
+        <FAQs />
+      </div>
+    );
 }
 
 export default AboutUs;

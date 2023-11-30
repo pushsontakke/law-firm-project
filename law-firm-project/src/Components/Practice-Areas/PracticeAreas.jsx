@@ -3,7 +3,7 @@ import ClientReview from "./ClientReview/ClientReview.jsx";
 
 const PracticeAreas = () => {
   return (
-    <div className="p-10">
+    <div className="p-10 lg:px-32">
       <AreaOfPractices />
       <ClientReview />
     </div>

@@ -13,14 +13,14 @@ const AreaOfPractices = () => {
       </div>
       <div className="grid grid-cols-3 gap-5 mt-5">
         <div className="relative col-span-2">
-          <img src={Business} alt="BUSINESS" className="" />
+          <img src={Business} alt="BUSINESS" className="cardImg" />
           <div className="absolute inset-5 flex items-end justify-center">
             BUSINESS LAW
           </div>
         </div>
 
         <div className="relative">
-          <img src={Partnership} alt="PartnerShip" className="" />
+          <img src={Partnership} alt="PartnerShip" className="cardImg" />
           <div className="absolute inset-5 flex items-end justify-center">
             PARTNERSHIP LAW
           </div>
@@ -28,14 +28,14 @@ const AreaOfPractices = () => {
       </div>
       <div className="grid grid-cols-3 gap-5 mt-5">
         <div className="relative">
-          <img src={RealEstate} alt="Real Estate Law" className="" />
+          <img src={RealEstate} alt="Real Estate Law" className="cardImg" />
           <div className="absolute inset-5 flex items-end justify-center">
             REAL ESTATE LAW
           </div>
         </div>
 
         <div className="relative col-span-2">
-          <img src={BusinessLaw} alt="Business Law" className="" />
+          <img src={BusinessLaw} alt="Business Law" className="cardImg" />
           <div className="absolute inset-5 flex items-end justify-center">
             BUSINESS LAW
           </div>
@@ -43,14 +43,18 @@ const AreaOfPractices = () => {
       </div>
       <div className="grid grid-cols-3 gap-5 mt-5">
         <div className="relative col-span-2">
-          <img src={LandlordDisputes} alt="Landlord Disputes" className="" />
+          <img
+            src={LandlordDisputes}
+            alt="Landlord Disputes"
+            className="cardImg"
+          />
           <div className="absolute inset-5 flex items-end justify-center">
             LANDLORD DISPUTES
           </div>
         </div>
 
         <div className="relative">
-          <img src={ElderAbuse} alt="Elder Abuse" className="" />
+          <img src={ElderAbuse} alt="Elder Abuse" className="cardImg" />
           <div className="absolute inset-5 flex items-end justify-center">
             ELDER ABUSE
           </div>

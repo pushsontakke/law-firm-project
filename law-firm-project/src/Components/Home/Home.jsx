@@ -4,7 +4,7 @@ import Hero from "./Hero/Hero.jsx";
 
 const Home = () => {
   return (
-    <div className="bg-black p-10">
+    <div className="bg-black p-10 lg:px-32">
       <div className="flex place-content-between items-center">
         <Logo />
         <Navigation />

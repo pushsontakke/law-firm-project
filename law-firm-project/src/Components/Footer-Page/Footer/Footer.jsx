@@ -4,12 +4,12 @@ import SocialMedia from "../Social-Media/SocialMedia";
 
 const Footer = () => {
     return (
-      <div className="bg-black p-12 pt-32">
+      <div className="bg-black p-10 pt-28 lg:px-32 mt-20">
         <div className="flex place-content-between items-center">
           <div className="px-6">
             <Logo />
           </div>
-          <div className="flex gap-12 text-sm">
+          <div className="flex gap-10 text-sm">
             <div>Home</div>
             <div>Attorneys</div>
             <div>Practice Areas</div>
@@ -18,7 +18,7 @@ const Footer = () => {
           {/* <Navigation /> */}
           <SocialMedia />
         </div>
-        <div className="flex gap-6 justify-center text-[11px] mt-24 pb-24 text-neutral-400">
+        <div className="flex gap-6 justify-center text-[11px] mt-12 pb-12 text-neutral-400">
           <p>&copy; 2023 Acme. All right reserved.</p>
           <p>Privacy Policy</p>
           <p>Terms of Service</p>

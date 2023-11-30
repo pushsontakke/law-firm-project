@@ -1,10 +1,10 @@
 const Navigation = () => {
   return (
-    <div className="flex p-1 text-sm">
-      <div className="mx-2">Home</div>
-      <div className="mx-2">Attorneys</div>
-      <div className="mx-2">Practice Areas</div>
-      <div className="mx-2">About Us</div>
+    <div className="flex p-1 text-sm gap-5 lg:gap-10">
+      <div>Home</div>
+      <div>Attorneys</div>
+      <div>Practice Areas</div>
+      <div>About Us</div>
     </div>
   );
 };

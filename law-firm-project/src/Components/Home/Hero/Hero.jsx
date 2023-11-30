@@ -4,12 +4,12 @@ import Message from "../../../assets/Message.png";
 const Hero = () => {
     return (
         <div className="flex place-content-between mt-12 mb-24">
-            <div className="md:w-3/4 w-3/5 mt-5">
+            <div className="md:w-[70%] w-3/5 mt-5">
                 <div>
                     <p className="text-[44px]">You don&apos;t have to</p>
                     <p className="text-[44px] font-bold">Fight them Alone.</p>
                 </div>
-                <p className="text-xs mt-3 text-neutral-500">
+                <p className="text-xs mt-3 text-neutral-500 w-[80%]">
                     Lorem ipsum dolor sit amet consectetur adipiscing elit blandit, curabitur sodales conubia ut inceptos
                     faucibus himenaeos tortor eget, hac massa gravida arcu interdum proin curae.
                 </p>
